@@ -12,4 +12,4 @@ Thanks to those research, I created three playlists with the best songs for each
 * B2: https://open.spotify.com/playlist/76nJUFO3jFlL16rRQ97Ejv?si=db0744e6d6e846a0
 
 ## Spanish analysis 
-Here is the second one, it is the same principle as for the French songs. Here is the link to the article: 
+Here is the second one, it is the same principle as for the French songs. Here is the link to the article: https://medium.com/geekculture/top-songs-to-learn-spanish-according-to-data-science-7575e61ec38c
